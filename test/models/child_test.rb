@@ -15,6 +15,9 @@ class ChildTest < ActiveSupport::TestCase
   context "Creating a child context" do
     setup do
       create_children
+      create_tasks
+      create_chores
+
     end
  
     teardown do
@@ -34,6 +37,11 @@ class ChildTest < ActiveSupport::TestCase
     should "have a scope to select only active children" do
       assert_equal ["Alex", "Mark"], Child.active.alphabetical.map{|c| c.first_name}
     end
+
+    should "test points earned" do
+      assert_equal 4, @alex.points_earned
+    end
+
   end
  
 

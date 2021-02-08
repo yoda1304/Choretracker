@@ -34,34 +34,17 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/mnt/c/Users/Jonathan/Desktop/2021 Spring Materials/67373 IS Consulting/lab5-choretracker-starter/app/models/child.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        3,
-        null,
-        2,
-        null,
-        1,
-        null,
-        1,
+      "/mnt/c/Users/Jonathan/Desktop/2021 Spring Materials/67373 IS Consulting/lab5-choretracker-starter/app/models/task.rb": [
         null,
         null,
         null,
-        null
-      ],
-      "/mnt/c/Users/Jonathan/Desktop/2021 Spring Materials/67373 IS Consulting/lab5-choretracker-starter/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/mnt/c/Users/Jonathan/Desktop/2021 Spring Materials/67373 IS Consulting/lab5-choretracker-starter/app/models/chore.rb": [
-        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null,
@@ -318,11 +301,41 @@
         0,
         0
       ],
-      "/mnt/c/Users/Jonathan/Desktop/2021 Spring Materials/67373 IS Consulting/lab5-choretracker-starter/app/models/task.rb": [
+      "/mnt/c/Users/Jonathan/Desktop/2021 Spring Materials/67373 IS Consulting/lab5-choretracker-starter/app/models/application_record.rb": [
         0,
+        0,
+        0
+      ],
+      "/mnt/c/Users/Jonathan/Desktop/2021 Spring Materials/67373 IS Consulting/lab5-choretracker-starter/app/models/child.rb": [
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0
+      ],
+      "/mnt/c/Users/Jonathan/Desktop/2021 Spring Materials/67373 IS Consulting/lab5-choretracker-starter/app/models/chore.rb": [
+        0,
+        null,
+        0,
+        0,
+        null,
         0
       ]
     },
-    "timestamp": 1612767332
+    "timestamp": 1612767831
   }
 }
